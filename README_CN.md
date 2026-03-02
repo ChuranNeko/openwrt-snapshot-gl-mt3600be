@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="https://github.com/ChuranNeko/openwrt-snapshot-gl-mt3600be/README.md">English</a> ｜
-<a href="https://github.com/ChuranNeko/openwrt-snapshot-gl-mt3600be/README_CN.md">中文</a>
+<a href="README.md">English</a> ｜
+<a href="README_CN.md">中文</a>
 
 </div>
 
