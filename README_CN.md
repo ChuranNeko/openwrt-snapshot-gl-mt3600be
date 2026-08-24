@@ -157,4 +157,4 @@ ssh root@<路由器ip> 'sysupgrade -n /tmp/openwrt-mediatek-filogic-glinet_gl-mt
 
 ## 赞助
 
-[请我喝杯咖啡](https://blog.crneko.top/sponsor/)
+[请我喝杯咖啡](https://blog.kaguyaring.top/sponsor/)
