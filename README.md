@@ -162,4 +162,4 @@ Third‑party components (such as LuCI, AdGuardHome, OpenClash, Argon, etc.) are
 
 ## Sponsor
 
-[Buy me a coffee](https://blog.crneko.top/sponsor/)
+[Buy me a coffee](https://blog.kaguyaring.top/sponsor/)
